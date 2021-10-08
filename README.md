@@ -14,7 +14,7 @@
 ███████╗██║██████╔╝██║  ██║██║  ██║██║  ██║   ██║         
 ╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝ 
 ```
-### Some books help me to learn cybersecurity/programming/hacking
+### Some books to help me learn cybersecurity/programming/hacking
 ### you can download [here](https://drive.google.com/drive/folders/1_pkkzP2ccbpjSsRLlKhWB6gTUiMaHmWw?usp=sharing)
 
 ## Contents for Cybersecurity
