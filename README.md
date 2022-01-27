@@ -13,20 +13,29 @@
 
 ```
 ### Some books to help me learn cybersecurity/programming/hacking
-### you can download [here](https://drive.google.com/drive/folders/1_pkkzP2ccbpjSsRLlKhWB6gTUiMaHmWw?usp=sharing)
+### you can download [here](https://drive.google.com/drive/folders/1KlW_OMuWZGnXY_I9S0sX-Cr_i-oVGlof?usp=sharing)
+
 
 ## Contents for Cybersecurity
 
 ```
 cybersecurity
 ├── [1.9M]  A-Guide-To-Starting-A-Career-in-Cyber-Security-2021.pdf
+├── [   0]  android
+│   ├── [9.0M]  Android Hacker's Handbook.pdf
+│   └── [4.3M]  Android Security Internals.pdf
 ├── [4.0K]  bugbounty
 │   ├── [9.8M]  alex_thomas_bug_bounty_playbook.pdf
 │   ├── [ 41M]  Become a Bounty Hunter.pdf
+│   ├── [ 11M]  Bug Bounty Hunting Essentials Quick-paced guide to help white-hat hackers get through bug bounty programs by Lozano, Carlos AAmir, Shahmeer (z-lib.org).pdf
 │   ├── [3.3M]  Bugcrowd 2020UltimateGuideToPenTesting Report 2020.pdf
 │   ├── [ 28K]  Capturax.JPG
+│   ├── [ 14M]  Hands-On Bug Hunting for Penetration Testers A practical guide to help ethical hackers discover web application security flaws by Joseph Marshall (z-lib.org).pdf
 │   ├── [2.1M]  OWASP_Testing_Guide_v4 (2).pdf
+│   ├── [ 29M]  pdfcoffee.com_bug-bounty-playbook-v2pdf-4-pdf-free(1).pdf
 │   └── [4.1M]  Real-World-Bug-Hunting.pdf
+├── [   0]  cableModem
+│   └── [ 22M]  EN-Hacking The Cable Modem.pdf
 ├── [4.0K]  ceh
 │   ├── [4.0K]  CEHv10
 │   │   ├── [4.0K]  outLabs
@@ -73,6 +82,7 @@ cybersecurity
 │   ├── [2.6M]  Cehv10exam.pdf
 │   └── [ 19M]  dokumen.pub_ceh-certified-ethical-hacker-all-in-one-exam-guide-fourth-edition.pdf
 ├── [4.0K]  cracking
+│   ├── [6.2M]  Cracking Codes with Python  Building and Breaking Ciphers.pdf
 │   ├── [272K]  Cracking_Passwords_Guide.pdf
 │   ├── [ 74K]  CRACKING.PDF
 │   ├── [ 60M]  Cracking sin secretos.pdf
@@ -114,12 +124,18 @@ cybersecurity
 │   ├── [6.1M]  5. Essential Skills for Hackers.pdf
 │   ├── [5.7M]  Blue Team Field Manual.pdf
 │   ├── [ 26M]  CEH V10.pdf
+│   ├── [7.1M]  Cyberjutsu Cybersecurity for the Modern Ninja by Ben McCarty (z-lib.org).pdf
 │   ├── [ 40M]  edoc.site_hacking-y-seguridad-en-internetpdf.pdf
 │   ├── [2.2M]  El-arte-de-la-intrusion.pdf
+│   ├── [ 16M]  Ethical Hacking A Hands-on Introduction to Breaking In by Daniel Graham (z-lib.org).pdf
+│   ├── [ 10M]  Go Hck Yourself An Ethical Approach to Cyber Attacks and Defense by Payne, Bryson (z-lib.org).pdf
 │   ├── [4.4M]  Hacking The Art of Exploitation, 2nd Edition ( PDFDrive.com ).pdf
 │   ├── [ 13M]  HakingCero.pdf
+│   ├── [ 12M]  Hands On Hacking Become An Expert At Next Gen Penetration Testing And Purple Teaming.pdf
 │   ├── [5.8M]  La_Biblia_del_Footprinting.pdf
+│   ├── [ 60M]  Learn Ethical Hacking From Scratch Your Stepping Stone To Penetration Testing.pdf
 │   ├── [5.2M]  Practical.Lock.Picking.pdf
+│   ├── [7.1M]  Practical Vulnerability Management A Strategic Approach to Managing Cyber Risk by Andrew Magnusson (z-lib.org).pdf
 │   └── [9.0M]  The Hacker Playbook 3 Practical Guide To Penetration Testing.pdf
 ├── [225K]  hacking_tools_cheat_sheet_v1.1.pdf
 ├── [5.2M]  Introduction To Cybersecurity .pdf
@@ -132,8 +148,10 @@ cybersecurity
 │   └── [369K]  Tecnicas-de-SQL-Injection.pdf
 ├── [4.0K]  malware
 │   ├── [ 28M]  92_thehackernews_w_pacb122_jt9bysCT20BQj0gzZyIx7Q.pdf
+│   ├── [ 21M]  Antivirus Bypass Techniques Learn practical techniques and tactics to combat, bypass, and evade antivirus software by Nir Yehoshua, Uriel Kosayev (z-lib.org).pdf
 │   ├── [5.6M]  Antivirus hackers handbook.pdf
 │   ├── [ 45K]  byte-notes.com-Storage units  bitbytenibble.pdf
+│   ├── [6.8M]  dokumen.pub_malware-data-science-attack-detection-and-attribution-1593278594-978-1593278595.pdf
 │   ├── [507K]  empaquetado-1-upx-parte-ii-shaddy1.pdf
 │   ├── [667K]  empaquetado-1-upx-parte-i-shaddy2.pdf
 │   ├── [334K]  EUaIDgtWoAIMLsZ.jpg
@@ -143,11 +161,17 @@ cybersecurity
 │   ├── [7.3M]  Modern Malware for Dummies.pdf
 │   ├── [ 33M]  Practical Binary Analysis. Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly ( PDFDrive.com ).pdf
 │   └── [9.4M]  Practical Malware Analysis.pdf
+├── [   0]  methodology
+│   ├── [1.1M]  frameworkesmellrev_20181102mn_clean.pdf
+│   ├── [9.5M]  issaf0.2.1.pdf
+│   └── [ 16M]  OSSTMM.3.pdf
 ├── [4.0K]  mittre
 │   ├── [1.2M]  8000aac2b810dc12.pdf
 │   ├── [3.7M]  9781119748106.pdf
+│   ├── [1.6M]  Best Practices for MITRE ATT&CK.pdf.pdf
 │   ├── [1.1M]  cisos-guide-to-breach-and-attack-simulation.pdf
-│   └── [ 12M]  mitre-getting-started-with-attack-october-2019.pdf
+│   ├── [ 12M]  mitre-getting-started-with-attack-october-2019.pdf
+│   └── [1.9M]  Using MITRE ATT&CK ™ in Threat Hunting and Detection.pdf.pdf
 ├── [   0]  osint
 │   ├── [ 11M]  Open Source Intelligence Methods and Tools A Practical Guide to Online Intelligence - PDF Room.pdf
 │   └── [ 35M]  practicalcyberintelligence_ebook.pdf
@@ -156,22 +180,31 @@ cybersecurity
 │   ├── [ 84M]  51_thehackernews_w_pacb120_ceBEcj2QXXiGNdUBS5I4yQ.pdf
 │   ├── [ 16M]  Advanced Penetration Testing for Highly Secured Environments.pdf
 │   ├── [9.7M]  Advanced Penetration Testing.pdf
+│   ├── [ 28M]  Cyber Operations Building, Defending, and Attacking Modern Computer Networks by Mike O’Leary (z-lib.org).pdf
 │   ├── [ 17M]  How Cybersecurity Really Works.pdf
 │   ├── [ 34M]  Hunting Cyber Criminals.pdf
+│   ├── [ 30M]  Kali Linux Penetration Testing Bible.pdf
 │   ├── [4.5M]  Patrick Engebretson The Basics of Hacking and Penetration Testing, Second Edition (2013).pdf
 │   ├── [ 30M]  Penetration Tester’s Open Source Toolkit, 4th Edition.pdf
 │   ├── [ 34M]  Penetration Tester's Open Source Toolkit.pdf
 │   ├── [ 12M]  Penetration Testing - A hands-on introduction to Hacking.pdf
 │   ├── [8.9M]  Profesional_PenetrationA.pdf
+│   ├── [1.2M]  Sample-Penetration-Test-Report-PurpleSec.pdf
 │   └── [2.7M]  the-pentester-blueprint.pdf
 ├── [   0]  pentest-lab
-│   └── [655K]  1301.1912.pdf
+│   ├── [655K]  1301.1912.pdf
+│   └── [ 29M]  Virtual Hacking labs by Virtual Hacking Labs (z-lib.org).pdf
+├── [   0]  privesc
+│   └── [ 15M]  Privilege Escalation Techniques by Alexis Ahmed (z-lib.org).pdf
 ├── [4.0K]  redTeam
+│   ├── [9.4M]  Cybersecurity Attacks - Red Team Strategies.pdf
 │   ├── [ 58M]  Hands-On Red Team Tactics by Himanshu Sharma and Harpreet Singh.pdf
+│   ├── [4.6M]  Operator Handbook Red Team + OSINT + Blue Team Reference by Joshua Picolet (z-lib.org).pdf
 │   ├── [ 12M]  Read Team Guide .pdf
 │   └── [ 10M]  RTFM - Red Team Field Manual v3.pdf
 ├── [   0]  reversing
-│   └── [ 14M]  Mastering Reverse Engineering_ Re-engineer your ethical hacking skills ( PDFDrive.com ).pdf
+│   ├── [ 14M]  Mastering Reverse Engineering_ Re-engineer your ethical hacking skills ( PDFDrive.com ).pdf
+│   └── [ 24M]  reversing-for-everyone.pdf
 ├── [4.0K]  seguridad informatica
 │   ├── [5.5M]  363063788-Introduccion-a-la-seguridad-informatica.pdf
 │   └── [8.5M]  372130046-Seguridad-InformA-Tica.pdf
@@ -187,6 +220,8 @@ cybersecurity
 │   ├── [2.5M]  pentest-magazine-mestasploit-man.pdf
 │   ├── [160M]  PFSENSE.rar
 │   └── [491K]  RemoteAPI_4.1.pdf
+├── [   0]  tunneling
+│   └── [4.8M]  Cyber Plumbers Handbook by Brennon Thomas.pdf
 ├── [4.0K]  web
 │   ├── [ 14M]  11_TheWeb Application Hackers Handbook.pdf
 │   ├── [2.3M]  Ataques-a-aplicaciones-web.pdf
@@ -199,6 +234,7 @@ cybersecurity
 │   ├── [2.9M]  web-hacking-101.pdf
 │   ├── [ 19M]  webpenetrationtestingwithkali.pdf
 │   ├── [ 12M]  Web_Penetration_Testing_with_kali.pdf
+│   ├── [2.5M]  Web Security for Developers Real Threats, Practical Defense by Malcolm McDonald (z-lib.org).pdf
 │   └── [9.2M]  wstg-v4.1.pdf
 └── [4.0K]  xss
     ├── [268K]  XSS a fondo.pdf
@@ -208,7 +244,7 @@ cybersecurity
     ├── [268K]  XSS.pdf
     └── [257K]  XSS Tunnelling.pdf
 
-26 directories, 162 files
+31 directories, 192 files
 ```
 ---
 ## Contents for networking
@@ -229,6 +265,8 @@ network
 │   ├── [6.3M]  Docker-Cookbook.pdf
 │   ├── [1.4M]  docker-es.pdf
 │   └── [2.4M]  TheDockerBook_sample.pdf
+├── [   0]  firewall
+│   └── [6.5M]  Linux Firewalls Attack Detection and Response with iptables, psad, and fwsnort by Michael Rash (z-lib.org).pdf
 ├── [   0]  gns3
 │   ├── [ 13M]  ba1e2b5a-3b3e-434e-92f0-2e5a083d3fbf.pdf
 │   ├── [1.1M]  document.pdf
@@ -243,7 +281,7 @@ network
     ├── [ 15M]  Practical Packet Analysis Using Wireshark to Solve Real World Problems.pdf
     └── [ 40M]  TCP-IP Illustrated Vol.3.pdf
 
-6 directories, 21 files
+7 directories, 22 files
 ```
 ---
 # Contents for programming
@@ -263,24 +301,39 @@ programming
 │   ├── [1.0M]  pcasm-book-spanish.pdf
 │   ├── [9.3M]  radare2book.pdf
 │   ├── [ 22M]  The.Art.of.Assembly.Language.2nd.Edition.pdf
+│   ├── [ 16M]  The Art of Assembly Language by Randall Hyde (z-lib.org).pdf
 │   ├── [5.4M]  The.Art.of.Debugging.with.GDB.DDD.and.Eclipse.pdf
 │   └── [121K]  Windows Assembly Programming Tutorial.pdf
 ├── [4.0K]  bash
 │   ├── [1.7M]  BashNotesForProfessionals.pdf
+│   ├── [8.2M]  Cybersecurity Ops with bash Attack, Defend, and Analyze from the Command Line.pdf
+│   ├── [2.7M]  Linux Shell Scripting Cookbook 3rd Edition by Clif Flynt, Sarath Lakshman, Shantanu Tushar (z-lib.org).pdf
 │   ├── [3.4M]  Penetration-Testing-with-the-Bash-shell.pdf
 │   ├── [2.7M]  Pro-Bash-Programming-Second-Edition-Scripting-the-GNULinux-Shell.pdf
+│   ├── [271K]  Pure Bash Bible by Dylan Araps (z-lib.org).pdf
+│   ├── [130K]  RdCeL.png
 │   ├── [2.0M]  TLCL-19.01.pdf
-│   └── [ 11M]  Wicked Cool Shell Scripts, 2nd Edition.pdf
+│   └── [ 11M]  Wicked Cool Shell Scripts.pdf
 ├── [   0]  c#
 │   └── [5.3M]  sanet.st_GrayHatC.pdf
+├── [   0]  c++
+│   ├── [2.1M]  C++ 20 Quick Syntax Reference A Pocket Guide to the Language, APIs, and Library by Mikael Olsson (z-lib.org).pdf
+│   ├── [7.1M]  C++ Crash Course A Fast-Paced Introduction by Josh Lospinoso (z-lib.org).pdf
+│   └── [4.9M]  CPlusPlusNotesForProfessionals.pdf
 ├── [4.0K]  dartExamples
 │   ├── [ 75K]  Contents.pdf
 │   ├── [975K]  dart.pdf
 │   ├── [ 16M]  dartTour.pdf
+│   ├── [ 24M]  Flutter Projects by Simone Alessandria (z-lib.org).pdf
+│   ├── [ 31M]  Google Flutter 2 Cookbook Over 100 proven techniques and solutions to mobile development with Flutter and Dart by Simone Alessandria, Brian Kayfitz.pdf
+│   ├── [7.2M]  Google Flutter Mobile Development Quick Start Guide by Prajyot Mainkar Salvatore Giordano (z-lib.org).pdf
 │   ├── [490K]  output.pdf
 │   └── [3.6M]  RW-Dart-Cheatsheet-1.0.2.pdf
+├── [   0]  devops
+│   └── [ 19M]  Learning DevOps The complete guide to accelerate collaboration with Jenkins, Kubernetes, Terraform and Azure DevOps by Mikael Krief (z-lib.org).pdf
 ├── [4.0K]  ebook
 │   ├── [6.0M]  CSS.pdf
+│   ├── [1.3M]  docker.pdf
 │   ├── [1.8M]  HTML.pdf
 │   ├── [4.0M]  JavaScript.pdf
 │   ├── [2.1M]  MySQL.pdf
@@ -296,7 +349,8 @@ programming
 │   ├── [990K]  Learning-Go-latest.pdf
 │   ├── [740K]  mozilla.pdf
 │   └── [8.4M]  Packt.Mastering.Go.2nd.Edition.1838559337.pdf
-├── [   0]  javascript
+├── [4.0K]  javascript
+│   ├── [1.5M]  impatient-js-preview-book.pdf
 │   ├── [1.2M]  javascript-inspirate.pdf
 │   ├── [4.1M]  JavaScriptNotesForProfessionals.pdf
 │   ├── [ 15M]  Manning.Secrets.Of.The.JavaScript.Ninja.Dec.2012.ISBN.193398869X.pdf
@@ -317,6 +371,7 @@ programming
 │   └── [938K]  PostgreSQLNotesForProfessionals.pdf
 ├── [4.0K]  powershell
 │   ├── [1.3M]  powershell101.pdf
+│   ├── [ 11M]  PowerShell Cookbook Your Complete Guide to Scripting the Ubiquitous Object-Based Shell by Lee Holmes (z-lib.org).pdf
 │   ├── [1.7M]  PowerShellNotesForProfessionals.pdf
 │   └── [1.5M]  Windows-PowerShell-Pocket-Reference-2nd-Edition.pdf
 ├── [4.0K]  programación
@@ -329,16 +384,36 @@ programming
 │   ├── [794K]  preliminares.pdf
 │   ├── [ 77M]  Robert C. Martin - Clean Code - A Handbook of Agile Software Craftsmanship - Español.pdf
 │   └── [ 32M]  silo.pub_dive-into-design-patterns.pdf
-├── [4.0K]  python
+├── [8.0K]  python
 │   ├── [3.8M]  9781783551712-LEARNING_PYTHON.pdf
 │   ├── [1.4M]  aprende-python.pdf
-│   ├── [6.5M]  Black Hat Python ( PDFDrive ).pdf
+│   ├── [ 17M]  Automate the Boring Stuff with Python Practical Programming for Total Beginners by Al Sweigart (z-lib.org).pdf
+│   ├── [ 14M]  black-hat-python.pdf
+│   ├── [6.4M]  Comprehensive Python Cheatsheet.pdf
 │   ├── [2.2M]  entrenamiento-python-basico-readthedocs-io-es-latest.pdf
-│   ├── [3.0M]  Gray Hat Python.pdf
+│   ├── [2.9M]  Learn Python 3 the Hard Way A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed A. Shaw (z-lib.org).pdf
+│   ├── [2.2M]  Learn to Code by Solving Problems. A Python Programming Primer by Daniel Zingaro Safari, an OReilly Media Company. (z-lib.org).pdf
+│   ├── [7.0M]  Mastering Python for Networking and Security Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues by Jose Manuel Ortega (z-lib.org).pdf
 │   ├── [194M]  new_python.pdf
 │   ├── [1.5M]  Python Basics.pdf
+│   ├── [9.8M]  Python by Example - Learning to Program in 150 Challenges by Nichola Lacey (z-lib.org).pdf
+│   ├── [4.0K]  pythonCodes
+│   │   ├── [4.8M]  2019_08_18_CoffeeBreakPython_paperback_version.pdf
+│   │   ├── [ 83K]  CheatSheet-Python-1_-Keywords1.pdf
+│   │   ├── [107K]  CheatSheet-Python-2_-Data-Structures.docx.pdf
+│   │   ├── [100K]  CheatSheet-Python-3_-Complex-Data-Types.pdf
+│   │   ├── [158K]  CheatSheet-Python-4_-Classes.pdf
+│   │   ├── [ 97K]  CheatSheet-Python-5_-Functions-and-Tricks.pdf
+│   │   ├── [122K]  CheatSheet-Python-6_-Coding-Interview-Questions.pdf
+│   │   ├── [ 15K]  Coffee_Break_Python_Puzzles.zip
+│   │   ├── [4.5M]  CoffeeBreakPythonSlicing.pdf
+│   │   ├── [323K]  Finxter_WorldsMostDensePythonCheatSheet.pdf
+│   │   └── [392K]  Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf
+│   ├── [6.6M]  Python Ethical Hacking from Scratch Think like an ethical hacker, avoid detection, and successfully develop, deploy, detect, and avoid malware by Fahad Ali Sarwar (z-lib.org).pdf
+│   ├── [7.3M]  PYTHON MADE EASY .pdf
 │   ├── [6.1M]  PythonNotesForProfessionals.pdf
 │   ├── [2.5M]  Python One-Liners PDF.pdf
+│   ├── [7.2M]  Think Like a Programmer An Introduction to Creative Problem Solving by V. Anton Spraul (z-lib.org).pdf
 │   └── [7.8M]  Violent Python - A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers.pdf
 ├── [   0]  rust
 │   └── [4.9M]  No.Starch.Press.The.Rust.Programming.Language.www.EBooksWorld.ir.pdf
@@ -360,7 +435,7 @@ programming
     ├── [8.0M]  2019_Book_AdvancedGuideToPython3Programm.pdf
     └── [ 29M]  A Beginners Guide To Python 3 Programming by John Hunt (z-lib.org).pdf
 
-16 directories, 93 files
+19 directories, 127 files
 ```
 ---
 ## Contents for OS manuals
@@ -368,16 +443,20 @@ programming
 ```
 os-manual
 ├── [ 85M]  49_thehackernews_w_pacb119_H07-05mgJFaXy_Uy9VxCaA.pdf
+├── [212K]  admin-linux.pdf
+├── [186K]  aptvsyum.pdf
 ├── [3.8M]  BackBox-3-Iniciacion-al-Pentesting.pdf
 ├── [3.5M]  BackBox-Packt-Publishing-Penetration-Testing.pdf
 ├── [8.1M]  BACKBOX-Users-Manual-.pdf
 ├── [6.3M]  Backtrack 5 Manual Traducido.pdf
 ├── [ 35M]  bh-eu-12-Searle-Samurai-WTF.pdf
 ├── [ 14M]  CreateSpace.Publishing.Basic.Security.Testing.With.Kali.Linux.Jan.2014.ISBN.1494861275.pdf
+├── [ 11M]  Hands-On System Programming With Linux Explore Linux System Programming Interfaces, Theory, And Practice by Kaiwan N Billimoria (z-lib.org).pdf
 ├── [5.2M]  How_Linux_Works_What_Every_Superuser_Sho.pdf
 ├── [5.0M]  kali-book-es.pdf
 ├── [4.8M]  Kali_Linux_Network_Scanning_Cook.pdf
 ├── [9.9M]  Kali-Linux-Revealed-1st-edition.pdf
+├── [ 12M]  Kali Linux Revealed.pdf
 ├── [1.5M]  Linux-101-Hacks.pdf
 ├── [7.5M]  LinuxBasicsForHackers.pdf
 ├── [857K]  LinuxNotesForProfessionals.pdf
@@ -389,6 +468,6 @@ os-manual
 ├── [822K]  Samurai-WTF_RaulSiles_IBWAS09_Dec09.pdf
 └── [2.0M]  TLCL-19.01.pdf
 
-0 directories, 21 files
+0 directories, 25 files
 ```
 Happy hacking!!!
