@@ -13,17 +13,21 @@
 
 ```
 ### Some books to help me learn cybersecurity/programming/hacking
-### you can download [here](https://drive.google.com/drive/folders/1KlW_OMuWZGnXY_I9S0sX-Cr_i-oVGlof?usp=sharing)
+### you can download [here](https://drive.google.com/drive/folders/1ONco_8s53C_onhHowaMWaDCKePISmfHL?usp=sharing)
 
 
 ## Contents for Cybersecurity
-
 ```
 cybersecurity
 ├── [1.9M]  A-Guide-To-Starting-A-Career-in-Cyber-Security-2021.pdf
 ├── [   0]  android
 │   ├── [9.0M]  Android Hacker's Handbook.pdf
 │   └── [4.3M]  Android Security Internals.pdf
+├── [4.0K]  blueTeam
+│   ├── [5.7M]  Blue Team Field Manual.pdf
+│   ├── [ 38M]  Blue Team Handbook - SOC, SIEM Threats Hunting Use Cases Notes from Fields (v1.02) by Don Murdoch (z-lib.org).pdf
+│   ├── [2.7M]  PTFM Purple Team Field Manual.pdf
+│   └── [ 16M]  The Complete Team Field Manual.pdf
 ├── [4.0K]  bugbounty
 │   ├── [9.8M]  alex_thomas_bug_bounty_playbook.pdf
 │   ├── [ 41M]  Become a Bounty Hunter.pdf
@@ -80,7 +84,15 @@ cybersecurity
 │   │       ├── [ 12M]  CEHv10_Module_19_Cloud_Computing.pdf
 │   │       └── [ 14M]  CEHv10_Module_20_Cryptography.pdf
 │   ├── [2.6M]  Cehv10exam.pdf
+│   ├── [ 26M]  CEH V10.pdf
 │   └── [ 19M]  dokumen.pub_ceh-certified-ethical-hacker-all-in-one-exam-guide-fourth-edition.pdf
+├── [4.0K]  CompTIA
+│   ├── [ 38M]  101 Labs - CompTIA Security+ by Paul W Browning, Mark Drinan (z-lib.org).pdf
+│   ├── [ 37M]  CompTIA PenTest+ certification all-in-one exam guide (exam PT0-001) by Nutting, Raymond (z-lib.org).pdf
+│   ├── [ 31M]  CompTIA PenTest+ Certification For Dummies by Glen E. Clarke (z-lib.org).pdf
+│   ├── [7.1M]  CompTIA Pentest+ (Practice Exams) by Karamagi, Robert [Karamagi, Robert] (z-lib.org).pdf
+│   ├── [5.5M]  CompTIA Pentest+ Study Guide - EXAM PT0-001 by Mike Chapple, David Seidl (z-lib.org).pdf
+│   └── [ 23M]  CompTIA PenTest+ Study Guide Exam PT0-002 by Mike Chapple, David Seidl (z-lib.org).pdf
 ├── [4.0K]  cracking
 │   ├── [6.2M]  Cracking Codes with Python  Building and Breaking Ciphers.pdf
 │   ├── [272K]  Cracking_Passwords_Guide.pdf
@@ -105,6 +117,8 @@ cybersecurity
 │   ├── [699K]  document.pdf
 │   ├── [ 53M]  mod_booklet.pdf
 │   └── [313K]  Neuromante - William Gibson.epub
+├── [ 17M]  Cybersecurity Career Master Plan Proven techniques and effective tips to help you advance in your cybersecurity career by Dr. Gerald Auger, Jaclyn “Jax” Scott, Jonathan Helmus, Kim Nguyen (z-lib.org).pdf
+├── [754K]  EH8WorfXkAAgtsU.png
 ├── [   0]  exploits
 │   └── [9.0M]  creacion de exploits.zip
 ├── [4.0K]  forensia
@@ -120,10 +134,7 @@ cybersecurity
 ├── [   0]  google hacking
 │   └── [ 37M]  Johnny Long, Bill Gardner, Justin Brown-Google Hacking for Penetration Testers-Syngress (2015).pdf
 ├── [4.0K]  hacking
-│   ├── [1.1M]  1027344.pdf
 │   ├── [6.1M]  5. Essential Skills for Hackers.pdf
-│   ├── [5.7M]  Blue Team Field Manual.pdf
-│   ├── [ 26M]  CEH V10.pdf
 │   ├── [7.1M]  Cyberjutsu Cybersecurity for the Modern Ninja by Ben McCarty (z-lib.org).pdf
 │   ├── [ 40M]  edoc.site_hacking-y-seguridad-en-internetpdf.pdf
 │   ├── [2.2M]  El-arte-de-la-intrusion.pdf
@@ -181,6 +192,7 @@ cybersecurity
 │   ├── [ 16M]  Advanced Penetration Testing for Highly Secured Environments.pdf
 │   ├── [9.7M]  Advanced Penetration Testing.pdf
 │   ├── [ 28M]  Cyber Operations Building, Defending, and Attacking Modern Computer Networks by Mike O’Leary (z-lib.org).pdf
+│   ├── [ 34M]  Cybersecurity – Attack and Defense Strategies Counter modern threats and employ state-of-the-art tools and techniques to protect your organization against cybercriminals, 2nd Edition by Yuri Diogenes, (z-lib.org).pdf
 │   ├── [ 17M]  How Cybersecurity Really Works.pdf
 │   ├── [ 34M]  Hunting Cyber Criminals.pdf
 │   ├── [ 30M]  Kali Linux Penetration Testing Bible.pdf
@@ -189,29 +201,40 @@ cybersecurity
 │   ├── [ 34M]  Penetration Tester's Open Source Toolkit.pdf
 │   ├── [ 12M]  Penetration Testing - A hands-on introduction to Hacking.pdf
 │   ├── [8.9M]  Profesional_PenetrationA.pdf
+│   ├── [7.1M]  Quick Start Guide to Penetration Testing With NMAP, OpenVAS and Metasploit by Sagar Rahalkar (z-lib.org).pdf
 │   ├── [1.2M]  Sample-Penetration-Test-Report-PurpleSec.pdf
 │   └── [2.7M]  the-pentester-blueprint.pdf
-├── [   0]  pentest-lab
+├── [4.0K]  pentest-lab
 │   ├── [655K]  1301.1912.pdf
+│   ├── [ 28M]  Building Virtual Machine Labs A Hands-On Guide (Second Edition) Volume I (Black and White Print) (Building Virtual Machine Labs A Hands-On Guide (Second Edition) - Black and White Print) by Tony Robin (z-lib.org).pdf
+│   ├── [ 34M]  Building Virtual Pentesting Labs for Advanced Penetration Testing.pdf
+│   ├── [ 42M]  cardwell_k_building_virtual_pentesting_labs_for_advanced_pen.pdf
+│   ├── [6.0M]  dokumen.pub_building-a-pentesting-lab-for-wireless-networks-1nbsped-1785283154-978-1785283154.pdf
+│   ├── [103M]  The Network Security Test Lab A Step-by-Step Guide by Michael Gregg (z-lib.org).pdf
 │   └── [ 29M]  Virtual Hacking labs by Virtual Hacking Labs (z-lib.org).pdf
 ├── [   0]  privesc
 │   └── [ 15M]  Privilege Escalation Techniques by Alexis Ahmed (z-lib.org).pdf
 ├── [4.0K]  redTeam
+│   ├── [1.1M]  1027344.pdf
 │   ├── [9.4M]  Cybersecurity Attacks - Red Team Strategies.pdf
 │   ├── [ 58M]  Hands-On Red Team Tactics by Himanshu Sharma and Harpreet Singh.pdf
 │   ├── [4.6M]  Operator Handbook Red Team + OSINT + Blue Team Reference by Joshua Picolet (z-lib.org).pdf
 │   ├── [ 12M]  Read Team Guide .pdf
-│   └── [ 10M]  RTFM - Red Team Field Manual v3.pdf
+│   ├── [ 10M]  RTFM - Red Team Field Manual v3.pdf
+│   └── [4.6M]  vest_joe_tubberville_james_red_team_development_and_operatio.pdf
 ├── [   0]  reversing
 │   ├── [ 14M]  Mastering Reverse Engineering_ Re-engineer your ethical hacking skills ( PDFDrive.com ).pdf
 │   └── [ 24M]  reversing-for-everyone.pdf
 ├── [4.0K]  seguridad informatica
 │   ├── [5.5M]  363063788-Introduccion-a-la-seguridad-informatica.pdf
-│   └── [8.5M]  372130046-Seguridad-InformA-Tica.pdf
+│   ├── [8.5M]  372130046-Seguridad-InformA-Tica.pdf
+│   └── [751K]  ltr101-breaking-into-infosec.pdf
 ├── [   0]  shellcoding
 │   └── [8.7M]  The Shellcoder’s Handbook.pdf
 ├── [4.0K]  tools-man
 │   ├── [5.8M]  27935.pdf
+│   ├── [ 36M]  Mastering Metasploit Exploit systems, cover your tracks, and bypass security controls with the Metasploit 5.0 framework, 4th Edition by Nipun Jaswal (z-lib.org).pdf
+│   ├── [ 18M]  Metasploit 5.0 for Beginners by Sagar Rahalkar (z-lib.org).pdf
 │   ├── [4.9M]  metasploit cocinado.pdf
 │   ├── [6.9M]  Metasploit.pdf
 │   ├── [ 19M]  metasploitpenetrationtestingcookbook_ebook.pdf
@@ -244,11 +267,10 @@ cybersecurity
     ├── [268K]  XSS.pdf
     └── [257K]  XSS Tunnelling.pdf
 
-31 directories, 192 files
+33 directories, 214 files
 ```
 ---
 ## Contents for networking
-
 ```
 network
 ├── [4.0K]  cisco
@@ -285,14 +307,14 @@ network
 ```
 ---
 # Contents for programming
-
 ```
 programming
 ├── [4.0K]  algoritmos
 │   ├── [2.6M]  AlgorithmsNotesForProfessionals.pdf
 │   ├── [1.5M]  algoritmos-y-pseudocc3b3digos.pdf
 │   ├── [1.8M]  lau-the-little-book-of-algorithms.pdf
-│   └── [794K]  preliminares.pdf
+│   ├── [794K]  preliminares.pdf
+│   └── [2.4M]  Problems on algorithms by Ian Parberry (z-lib.org).pdf
 ├── [4.0K]  assembler
 │   ├── [2.4M]  assembly64.pdf
 │   ├── [  41]  commithash.txt
@@ -435,11 +457,10 @@ programming
     ├── [8.0M]  2019_Book_AdvancedGuideToPython3Programm.pdf
     └── [ 29M]  A Beginners Guide To Python 3 Programming by John Hunt (z-lib.org).pdf
 
-19 directories, 127 files
+19 directories, 128 files
 ```
 ---
 ## Contents for OS manuals
-
 ```
 os-manual
 ├── [ 85M]  49_thehackernews_w_pacb119_H07-05mgJFaXy_Uy9VxCaA.pdf
@@ -470,4 +491,5 @@ os-manual
 
 0 directories, 25 files
 ```
+---
 Happy hacking!!!
